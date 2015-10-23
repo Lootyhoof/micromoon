@@ -8,7 +8,7 @@
     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 
   <Description about="urn:mozilla:install-manifest">
-    <em:id>{854a7ddc-f008-4263-b98e-98e62085837f}</em:id>
+    <em:id>{03e0a23d-1be6-4040-b98e-98e62085837f}</em:id>
     <em:version>1.0.0</em:version>
     <em:name>MicroMoon</em:name>
     <em:description>MicroMoon, designed for optimal screen usage, leaving lots of room for browsing. Based on icons from art.gnome.org. Fork of "MicroFox" by Alfred Kayser</em:description>
