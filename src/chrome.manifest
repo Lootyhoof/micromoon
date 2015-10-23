@@ -1,0 +1,28 @@
+skin	communicator	micromoon	communicator/
+skin	global		micromoon	global/
+skin	browser		micromoon	browser/
+skin	inspector	micromoon	inspector/
+skin	mozapps		micromoon	mozapps/
+skin	help		micromoon	help/
+skin	downbar		micromoon	downbar/
+skin	reporter	micromoon	reporter/
+skin	offline		micromoon	offline/
+skin	quicknote	micromoon	quicknote/
+skin	tabprefs	micromoon	tabprefs/
+skin	dataman		micromoon	dataman/
+skin	dlman		micromoon	dlman/
+skin	desktop		micromoon	desktop/
+skin	locationbar2	micromoon	locationbar2/
+skin	downloadmgr	micromoon	downloadmgr/
+skin	favres		micromoon	favres/
+skin	os		micromoon	os-linux/
+skin	os		micromoon	os-darwin/	os=Darwin
+skin	os		micromoon	os-winnt/	os=WINNT
+skin    graphical-timeline micromoon gt/
+skin    imagetoolbar	micromoon	imagetoolbar/
+skin    abouthome	micromoon	abouthome/
+skin    jsterm		micromoon	jsterm/
+skin    printedit	micromoon	printedit/
+skin    speeddial	micromoon	speeddial/
+skin	appver		micromoon	appver/25/ appversion<=26.0.0b2
+skin	appver		micromoon	appver/26/ appversion>26.0.0b2
