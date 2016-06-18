@@ -24,5 +24,3 @@ skin    abouthome	micromoon	abouthome/
 skin    jsterm		micromoon	jsterm/
 skin    printedit	micromoon	printedit/
 skin    speeddial	micromoon	speeddial/
-skin	appver		micromoon	appver/25/ appversion<=26.0.0b2
-skin	appver		micromoon	appver/26/ appversion>26.0.0b2
