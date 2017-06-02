@@ -71,7 +71,7 @@ td{text-align:start}
 #action-box,#reset-box,#safe-mode-box{display: none}
 
 body[dir="rtl"]>#action-box{float:left}
-#reset-box>h3{margin-top:0}
+#action-box>h3{margin-top:0}
 
 #action-box button{display: block}
 
