@@ -1348,9 +1348,7 @@ html|*#highlighter-nodeinfobar-pseudo-classes,
 .full-screen-approval-button[oncommand*="false"]{
 	-moz-image-region:rect(16px 16px 32px 0)}
 
-.toolbarbutton-badge-container,
-.toolbarbutton-badge-stack{
-	position:relative}
+.toolbarbutton-badge-stack{position:relative}
 
 .toolbarbutton-badge{
 	position:absolute;
