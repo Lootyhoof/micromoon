@@ -27,4 +27,3 @@ skin	speeddial	micromoon	speeddial/
 skin	devtools	micromoon	devtools/
 
 override chrome://browser/skin/autocomplete.css chrome://global/skin/autocomplete.css
-override chrome://browser/skin/permissions/aboutPermissions.css chrome://browser/skin/preferences/aboutPermissions.css
