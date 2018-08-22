@@ -1,29 +1,29 @@
-skin	communicator	micromoon	communicator/
-skin	global		micromoon	global/
-skin	browser		micromoon	browser/
-skin	inspector	micromoon	inspector/
-skin	mozapps		micromoon	mozapps/
-skin	help		micromoon	help/
-skin	downbar		micromoon	downbar/
-skin	reporter	micromoon	reporter/
-skin	offline		micromoon	offline/
-skin	quicknote	micromoon	quicknote/
-skin	tabprefs	micromoon	tabprefs/
-skin	dataman		micromoon	dataman/
-skin	dlman		micromoon	dlman/
-skin	desktop		micromoon	desktop/
-skin	locationbar2	micromoon	locationbar2/
-skin	downloadmgr	micromoon	downloadmgr/
-skin	favres		micromoon	favres/
-skin	os		micromoon	os-linux/
-skin	os		micromoon	os-darwin/	os=Darwin
-skin	os		micromoon	os-winnt/	os=WINNT
-skin	graphical-timeline micromoon gt/
-skin	imagetoolbar	micromoon	imagetoolbar/
-skin	abouthome	micromoon	abouthome/
-skin	jsterm		micromoon	jsterm/
-skin	printedit	micromoon	printedit/
-skin	speeddial	micromoon	speeddial/
-skin	devtools	micromoon	devtools/
+skin	communicator	micromoon	chrome/communicator/
+skin	global		micromoon	chrome/global/
+skin	browser		micromoon	chrome/browser/
+skin	inspector	micromoon	chrome/inspector/
+skin	mozapps		micromoon	chrome/mozapps/
+skin	help		micromoon	chrome/help/
+skin	downbar		micromoon	chrome/downbar/
+skin	reporter	micromoon	chrome/reporter/
+skin	offline		micromoon	chrome/offline/
+skin	quicknote	micromoon	chrome/quicknote/
+skin	tabprefs	micromoon	chrome/tabprefs/
+skin	dataman		micromoon	chrome/dataman/
+skin	dlman		micromoon	chrome/dlman/
+skin	desktop		micromoon	chrome/desktop/
+skin	locationbar2	micromoon	chrome/locationbar2/
+skin	downloadmgr	micromoon	chrome/downloadmgr/
+skin	favres		micromoon	chrome/favres/
+skin	os		micromoon	chrome/os-linux/
+skin	os		micromoon	chrome/os-darwin/	os=Darwin
+skin	os		micromoon	chrome/os-winnt/	os=WINNT
+skin	graphical-timeline micromoon	chrome/gt/
+skin	imagetoolbar	micromoon	chrome/imagetoolbar/
+skin	abouthome	micromoon	chrome/abouthome/
+skin	jsterm		micromoon	chrome/jsterm/
+skin	printedit	micromoon	chrome/printedit/
+skin	speeddial	micromoon	chrome/speeddial/
+skin	devtools	micromoon	chrome/devtools/
 
 override chrome://browser/skin/autocomplete.css chrome://global/skin/autocomplete.css
