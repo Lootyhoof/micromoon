@@ -1,29 +1,30 @@
-skin	communicator	micromoon	chrome/communicator/
-skin	global		micromoon	chrome/global/
-skin	browser		micromoon	chrome/browser/
-skin	inspector	micromoon	chrome/inspector/
-skin	mozapps		micromoon	chrome/mozapps/
-skin	help		micromoon	chrome/help/
-skin	downbar		micromoon	chrome/downbar/
-skin	reporter	micromoon	chrome/reporter/
-skin	offline		micromoon	chrome/offline/
-skin	quicknote	micromoon	chrome/quicknote/
-skin	tabprefs	micromoon	chrome/tabprefs/
-skin	dataman		micromoon	chrome/dataman/
-skin	dlman		micromoon	chrome/dlman/
-skin	desktop		micromoon	chrome/desktop/
-skin	locationbar2	micromoon	chrome/locationbar2/
-skin	downloadmgr	micromoon	chrome/downloadmgr/
-skin	favres		micromoon	chrome/favres/
-skin	os		micromoon	chrome/os-linux/
-skin	os		micromoon	chrome/os-darwin/	os=Darwin
-skin	os		micromoon	chrome/os-winnt/	os=WINNT
-skin	graphical-timeline micromoon	chrome/gt/
-skin	imagetoolbar	micromoon	chrome/imagetoolbar/
 skin	abouthome	micromoon	chrome/abouthome/
-skin	jsterm		micromoon	chrome/jsterm/
-skin	printedit	micromoon	chrome/printedit/
-skin	speeddial	micromoon	chrome/speeddial/
+skin	browser		micromoon	chrome/browser/
+skin	communicator	micromoon	chrome/communicator/
 skin	devtools	micromoon	chrome/devtools/
+skin	global		micromoon	chrome/global/
+skin	mozapps		micromoon	chrome/mozapps/
+
+skin	os		micromoon	chrome/os/linux/
+skin	os		micromoon	chrome/os/darwin/	os=Darwin
+skin	os		micromoon	chrome/os/winnt/	os=WINNT
 
 override chrome://browser/skin/autocomplete.css chrome://global/skin/autocomplete.css
+
+# Add-on styles
+
+skin	printedit	micromoon	chrome/addon/printedit/
+skin	speeddial	micromoon	chrome/addon/speeddial/
+skin	graphical-timeline micromoon	chrome/addon/gt/
+skin	imagetoolbar	micromoon	chrome/addon/imagetoolbar/
+skin	downbar		micromoon	chrome/addon/downbar/
+skin	offline		micromoon	chrome/addon/offline/
+skin	quicknote	micromoon	chrome/addon/quicknote/
+skin	tabprefs	micromoon	chrome/addon/tabprefs/
+skin	dataman		littlemoon	chrome/dataman/
+skin	dlman		micromoon	chrome/addon/dlman/
+skin	desktop		micromoon	chrome/addon/desktop/
+skin	locationbar2	micromoon	chrome/addon/locationbar2/
+skin	downloadmgr	micromoon	chrome/addon/downloadmgr/
+skin	favres		micromoon	chrome/addon/favres/
+skin	inspector	micromoon	chrome/addon/inspector/
