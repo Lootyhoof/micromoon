@@ -1,4 +1,5 @@
 #!/bin/bash
 NAME=micromoon
 VER=${1:-dev}
-zip -qr9XD $NAME-$VER.xpi src/*
+rm $NAME-$VER-pm.xpi
+zip -qr9XD $NAME-$VER-pm.xpi src/*
