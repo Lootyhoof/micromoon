@@ -1,5 +1,5 @@
 # MicroMoon
-![Preview](http://i66.tinypic.com/fof3fo.png)
+![Preview](https://i.imgur.com/hz1bVs3.png)
 
 Fork of the theme "MicroFox" by Alfred Kayser for Pale Moon.
 
