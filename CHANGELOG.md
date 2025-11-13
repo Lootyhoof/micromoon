@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.13.0
+- support new @media query for Windows 11
+- support Pale Moon 34
+
 ### 1.12.2
 - support Pale Moon 33
 
